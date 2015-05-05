@@ -1,0 +1,102 @@
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\CourseWork.dll.config
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\CourseWork.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\CourseWork.pdb
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\EntityFramework.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\EntityFramework.SqlServer.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Newtonsoft.Json.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Owin.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Providers.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\WebGrease.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Optimization.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Antlr3.Runtime.pdb
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Newtonsoft.Json.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\EntityFramework.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\EntityFramework.SqlServer.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\Finder\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+H:\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+H:\CourseWork\CourseWork\obj\Debug\CourseWork.dll
+H:\CourseWork\CourseWork\bin\CourseWork.dll.config
+H:\CourseWork\CourseWork\bin\CourseWork.dll
+H:\CourseWork\CourseWork\bin\CourseWork.pdb
+H:\CourseWork\CourseWork\bin\Antlr3.Runtime.dll
+H:\CourseWork\CourseWork\bin\AspNet.ScriptManager.bootstrap.dll
+H:\CourseWork\CourseWork\bin\AspNet.ScriptManager.jQuery.dll
+H:\CourseWork\CourseWork\bin\EntityFramework.dll
+H:\CourseWork\CourseWork\bin\EntityFramework.SqlServer.dll
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.FriendlyUrls.dll
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Facebook.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Google.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Twitter.dll
+H:\CourseWork\CourseWork\bin\Microsoft.ScriptManager.MSAjax.dll
+H:\CourseWork\CourseWork\bin\Microsoft.ScriptManager.WebForms.dll
+H:\CourseWork\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+H:\CourseWork\CourseWork\bin\Newtonsoft.Json.dll
+H:\CourseWork\CourseWork\bin\Owin.dll
+H:\CourseWork\CourseWork\bin\System.Web.Optimization.dll
+H:\CourseWork\CourseWork\bin\System.Web.Providers.dll
+H:\CourseWork\CourseWork\bin\WebGrease.dll
+H:\CourseWork\CourseWork\bin\System.Web.Optimization.xml
+H:\CourseWork\CourseWork\bin\Antlr3.Runtime.pdb
+H:\CourseWork\CourseWork\bin\Newtonsoft.Json.xml
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.FriendlyUrls.xml
+H:\CourseWork\CourseWork\bin\EntityFramework.xml
+H:\CourseWork\CourseWork\bin\EntityFramework.SqlServer.xml
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Facebook.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Google.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Twitter.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+H:\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
